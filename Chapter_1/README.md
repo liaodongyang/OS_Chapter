@@ -4,3 +4,5 @@ This is in fact the same address:
   
   
 Many (but not all) BIOS interrupts expect DS to be filled with a Real Mode segment value. This is why many BIOS interrupts won't work in protected mode. So if you want to use int 10h/ah=0eh to print to the screen, then you need to make sure that your seg:offset for the characters to print is correct.
+
+QEMU: qemu-system-i386 [options] [disk_image]
