@@ -6,6 +6,7 @@ First, basic OS<br/>
 1. First-stage bootloader
 2. Second_stage bootLoader
 3. The basic OS
+4. A way to test
 
 BIOS:<br/>
 Checking hardware<br/>
