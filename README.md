@@ -2,6 +2,10 @@
 Read kernel into memory<br/>
 还不了解，先写为主
 
+First, basic OS<br/>
+1. First-stage bootloader
+2. Second_stage bootLoader
+3. The basic OS
 
 BIOS:<br/>
 Checking hardware<br/>
