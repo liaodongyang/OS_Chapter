@@ -9,4 +9,9 @@ Checking processor functions<br/>
 Checking memory<br/>
 Detecting / Setting up video output<br/>
 Detecting storage devices (e.g HDD)<br/>
+Scans storage devices<br/>
+Looks for bootable devices<br/>
 
+Load OS<br/>
+Disk formats. MBR or GPT<br/>
+<br/>
